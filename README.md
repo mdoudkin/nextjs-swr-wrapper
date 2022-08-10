@@ -1,5 +1,4 @@
 [![npm (scoped)](https://img.shields.io/npm/v/@mdoudkin/nextjs-swr-wrapper.svg)](https://www.npmjs.com/package/@mdoudkin/nextjs-swr-wrapper)
-
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@mdoudkin/nextjs-swr-wrapper.svg)](https://www.npmjs.com/package/@mdoudkin/nextjs-swr-wrapper)
 
 ## Installation

@@ -48,7 +48,7 @@ export const useUpdater = <RES = any, E = any>(
     }
 
     if (mutationKey instanceof RegExp) {
-      if (!(cache instanceof Map<string, any>)) {
+      if (!(cache instanceof Map)) {
         throw new Error(
           "matchMutate requires the cache provider to be a Map instance"
         );
