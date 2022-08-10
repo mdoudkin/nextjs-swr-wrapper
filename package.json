@@ -4,7 +4,7 @@
   "description": "Simple and effective wrapper for Vercel's SWR data fetching library",
   "license": "MIT",
   "repository": "mdoudkin/nextjs-swr-wrapper",
-  "main": "index.js",
+  "main": "index.ts",
   "keywords": [
     "swr",
     "nextjs"
