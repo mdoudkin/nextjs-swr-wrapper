@@ -1,6 +1,6 @@
 {
   "name": "@mdoudkin/nextjs-swr-wrapper",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Simple and effective wrapper for Vercel's SWR data fetching library",
   "license": "MIT",
   "repository": "mdoudkin/nextjs-swr-wrapper",
